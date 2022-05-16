@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\Tracer\\Google Disk\\MCP_Last\\Software\\Arduino\\MCP_Last ver2\\MCP_Last\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "5aee5cb06e15586c259fa78e2cd5318b",
+    "md5" : "MD5:5aee5cb06e15586c259fa78e2cd5318b",
+    "createdAt" : "2020-08-04T01:48:22.061",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T05:48:22.061"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\Tracer\\Google Disk\\MCP_Last\\Software\\Arduino\\MCP_Last ver2\\MCP_Last\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "838d87c19741d7db78e1d3ce8dd9d59e",
+    "md5" : "MD5:838d87c19741d7db78e1d3ce8dd9d59e",
+    "createdAt" : "2020-08-04T01:48:22.37",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T05:48:22.370"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\Tracer\\Google Disk\\MCP_Last\\Software\\Arduino\\MCP_Last ver2\\MCP_Last\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "bdc417257d154a27d0f79f8b0a30c182",
+    "md5" : "MD5:bdc417257d154a27d0f79f8b0a30c182",
+    "createdAt" : "2020-08-04T01:48:31.604",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T02:48:31.604"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\Tracer\\Google Disk\\MCP_Last\\Software\\Arduino\\MCP_Last ver2\\MCP_Last\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "929e1256b7e2eb00eae6b0fe2e456c8e",
+    "md5" : "MD5:929e1256b7e2eb00eae6b0fe2e456c8e",
+    "createdAt" : "2020-08-04T01:48:31.354",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T02:48:31.354"
+  } ]
+}
